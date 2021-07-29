@@ -1,14 +1,14 @@
 <?php
 
-$lang['panel_title']   = "Mahasiswa Sesi Laporan";
+$lang['panel_title']   = "Siswa Sesi Laporan";
 $lang['mail_success']  = "Email Kirim Berhasil";
 $lang['mail_error']    = "Oops, Email Tidak Kirim";
 $lang['studentsessionreport_please_select'] = "Silahkan Pilih";
 $lang['studentsessionreport_class'] = "Kelas";
 $lang['studentsessionreport_section'] = "Bagian";
-$lang['studentsessionreport_student'] = "Mahasiswa";
+$lang['studentsessionreport_student'] = "Siswa";
 $lang['studentsessionreport_report_for'] = "Laporan Untuk";
-$lang['studentsessionreport_student_session'] = "Mahasiswa Sesi";
+$lang['studentsessionreport_student_session'] = "Siswa Sesi";
 $lang['studentsessionreport_subjects'] = "Mata Pelajaran";
 $lang['studentsessionreport_phone'] = "Telepon";
 $lang['studentsessionreport_email'] = "Email";

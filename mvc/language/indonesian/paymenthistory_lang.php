@@ -3,7 +3,7 @@
 $lang['panel_title'] = "Pembayaran Sejarah";
 $lang['add_title'] = "Menambah A Kelas";
 $lang['slno'] = "#";
-$lang['paymenthistory_student'] = "Mahasiswa";
+$lang['paymenthistory_student'] = "Siswa";
 $lang['paymenthistory_classes'] = "Kelas";
 $lang['paymenthistory_feetype'] = "Biaya Jenis";
 $lang['paymenthistory_method'] = "Metode";

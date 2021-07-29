@@ -12,6 +12,8 @@ class Attendance extends CI_Controller{
         $companyId = $this->input->post('companyid');
         $data = $this->input->post('data');
 
+        
+
         if($companyId != '' && $data != ''){
             echo "1";
 

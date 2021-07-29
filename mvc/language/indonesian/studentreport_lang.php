@@ -1,9 +1,9 @@
 <?php
 
-$lang['panel_title'] = "Mahasiswa Laporan";
+$lang['panel_title'] = "Siswa Laporan";
 $lang['studentreport_select_all_section'] = "Semua Bagian";
 $lang['studentreport_select_all_class'] = "Semua Kelas";
-$lang['studentreport_student'] = "Mahasiswa";
+$lang['studentreport_student'] = "Siswa";
 $lang['studentreport_please_select'] = "Silahkan Pilih";
 $lang['studentreport_blood_group'] = "Darah Group";
 $lang['studentreport_country'] = "Negara";
@@ -17,7 +17,7 @@ $lang['studentreport_male'] = "Laki-laki";
 $lang['studentreport_female'] = "Perempuan";
 $lang['studentreport_school_or_class'] = "Sekolah/class";
 $lang['studentreport_school'] = "Sekolah";
-$lang['studentreport_student'] = "Mahasiswa";
+$lang['studentreport_student'] = "Siswa";
 $lang['studentreport_class'] = "Kelas";
 $lang['studentreport_select_section'] = "Pilih Bagian";
 $lang['studentreport_photo'] = "Foto";

@@ -1,6 +1,6 @@
 <?php
 
-$lang['panel_title'] = "Mahasiswa Group";
+$lang['panel_title'] = "Siswa Group";
 $lang['add_title'] = "Menambah A Mahasiswa Group";
 $lang['slno'] = "#";
 $lang['studentgroup_group'] = "Kelompok";

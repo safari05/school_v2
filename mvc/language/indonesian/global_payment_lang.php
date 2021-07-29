@@ -3,7 +3,7 @@
 $lang['panel_title'] = "Global Pembayaran";
 $lang['global_classes'] = "Kelas";
 $lang['global_section'] = "Bagian";
-$lang['global_student'] = "Mahasiswa";
+$lang['global_student'] = "Siswa";
 $lang['global_roll'] = "Roll";
 $lang['global_select_classes'] = "Pilih Kelas";
 $lang['global_select_section'] = "Pilih Bagian";
@@ -26,7 +26,7 @@ $lang['global_total'] = "Total";
 $lang['global_total_collection'] = "Total Koleksi";
 $lang['global_payment_status'] = "Pembayaran Status";
 $lang['global_payment_type'] = "Pembayaran Jenis";
-$lang['global_student_copy'] = "Mahasiswa Copy";
+$lang['global_student_copy'] = "Siswa Copy";
 $lang['global_paid'] = "Dibayar";
 $lang['global_partial'] = "Parsial";
 $lang['global_unpaid'] = "Pbb Yang Dibayar";

@@ -1,9 +1,9 @@
 <?php
 
-$lang['panel_title'] = "Mahasiswa Halus Laporan";
+$lang['panel_title'] = "Siswa Halus Laporan";
 $lang['studentfinereport_fromdate'] = "Dari Tanggal";
 $lang['studentfinereport_todate'] = "Untuk Tanggal";
-$lang['studentfinereport_studentfine'] = "Mahasiswa Halus";
+$lang['studentfinereport_studentfine'] = "Siswa Halus";
 $lang['studentfinereport_report_for'] = "Laporan Untuk";
 $lang['studentfinereport_slno'] ="#";
 $lang['studentfinereport_date'] = "Tanggal";

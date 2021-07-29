@@ -1,14 +1,14 @@
 <?php
 
-$lang['panel_title'] = "Mahasiswa Absensi";
+$lang['panel_title'] = "Siswa Absensi";
 $lang['panel_title2'] = "Absensi";
 $lang['add_title'] = "Tambahkan Mahasiswa Absensi";
 $lang['slno'] = "#";
 $lang['attendance_classes'] = "Kelas";
 $lang['attendance_section'] = "Bagian";
 $lang['attendance_subject'] = "Subjek";
-$lang['attendance_student'] = "Mahasiswa";
-$lang['attendance_studentid'] = "Mahasiswa Id";
+$lang['attendance_student'] = "Siswa";
+$lang['attendance_studentid'] = "Siswa Id";
 $lang['attendance_date'] = "Tanggal";
 $lang['attendance_photo'] = "Foto";
 $lang['attendance_name'] = "Nama";
@@ -128,12 +128,12 @@ $lang['sattendance_type'] = "Jenis";
 $lang['sattendance_to'] = "Untuk";
 $lang['sattendance_subject'] = "Subjek";
 $lang['sattendance_message'] = "Pesan";
-$lang['sattendance_studentID'] = "Mahasiswa Id";
+$lang['sattendance_studentID'] = "Siswa Id";
 $lang['sattendance_classesID'] = "Kelas Id";
 $lang['sattendance_data_not_found'] = "Don't Memiliki Setiap Data";
 $lang['sattendance_permissionmethod'] = "Metode Yang Tidak Boleh";
 $lang['sattendance_permission'] = "Izin Tidak Boleh";
-$lang['sattendance_student'] = "Mahasiswa";
+$lang['sattendance_student'] = "Siswa";
 $lang['sattendance_total_holiday'] = "Total Liburan";
 $lang['sattendance_total_weekenday'] = "Total Akhir Pekan";
 $lang['sattendance_total_present'] = "Total Hadir";
