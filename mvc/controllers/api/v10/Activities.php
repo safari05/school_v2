@@ -13,6 +13,11 @@ class Activities extends Api_Controller
 		$this->load->model("activitiescomment_m");
 	}
 
+    public function index_post(){
+        $companyId = $this->input->post('companyd');
+        echo $companyId;
+    }
+
 	public function index_get() 
     {
         $schoolyearID = $this->session->userdata('defaultschoolyearID');

@@ -33,7 +33,7 @@
                                 </li>
                             </ul>
                         </li>
-
+                        <?php echo $siteinfos->language_status." Languange"?>
                         <?php if(isset($siteinfos->language_status) && $siteinfos->language_status == 0) { ?>
                             <li class="dropdown notifications-menu">
                                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">
@@ -44,7 +44,7 @@
                                     <span class="label label-warning">15</span>
                                 </a>
                                 <ul class="dropdown-menu">
-                                    <li class="header"> <?=$this->lang->line("language")?></li>
+                                    <li class="header"> <?= $this->lang->line("language")?></li>
                                     <li>
                                         <ul class="menu">
                                             <li class="language" id="arabic">
