@@ -1,4 +1,4 @@
-a:3:{s:4:"time";i:1627529241;s:3:"ttl";i:3600;s:4:"data";s:966:"
+a:3:{s:4:"time";i:1627614518;s:3:"ttl";i:3600;s:4:"data";s:964:"
 
 <!DOCTYPE html>
 <html  class="no-js" lang="en-US">
@@ -7,7 +7,6 @@ a:3:{s:4:"time";i:1627529241;s:3:"ttl";i:3600;s:4:"data";s:966:"
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta http-equiv="Content-Type" content="text/html">
     <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
-
     <link rel="SHORTCUT ICON" href="<?php echo  base_url('uploads/images/'.frontendData::get_backend('photo')) ; ?>">
     <title> <?php echo  frontendData::get_backend('sname') ; ?> </title>
 

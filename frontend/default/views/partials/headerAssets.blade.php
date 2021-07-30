@@ -23,5 +23,4 @@
 
     <script type="text/javascript" src="<?=base_url($frontendThemePath.'assets/js/vendor/modernizr-2.8.3.min.js')?>"></script>
 
-
 @yield('headerAssetPush')
